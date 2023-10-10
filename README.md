@@ -1,4 +1,4 @@
-# Projeto Awesome 😎
+# Projeto Awesome 😎!
 
 Bem-vindo ao Projeto Awesome! Este é um lugar incrível onde você pode aprender como criar um README.md que faz seus projetos brilharem.
 
