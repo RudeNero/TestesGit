@@ -6,7 +6,7 @@ Bem-vindo ao Projeto Awesome! Este é um lugar incrível onde você pode aprende
 
 Um README bem escrito é crucial para qualquer projeto. Ele ajuda os colaboradores e os usuários a entenderem o que seu projeto faz, como usá-lo e como contribuir para ele. Além disso, ajuda a dar uma primeira impressão positiva do seu trabalho!
 
-## 📄 O que deve estar em um bom README?
+## 📄 O que deve estar em um bom README? (editado pelo navegador)
 
 1. **Título e Descrição**: Comece com um título claro e uma breve descrição do seu projeto.
 
